@@ -1,0 +1,15 @@
+{
+  "name": "Memoria Educacao Infatil",
+  "short_name": "Memoria Educacao Infatil",
+  "id": "com.example.pairs",
+  "description": "Jogo da Memória",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": [{
+        "src": "logo-sesi.png",
+        "sizes": "512x512"
+      }]
+}
